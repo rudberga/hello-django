@@ -26,7 +26,7 @@ SECRET_KEY = '$iwv-_=_jd&#7dh^@)=(a9b7un1dh3hq0#n@xv!!6kc4vfb(-p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rudberg-django-todo-app.herokuapp.com']
 
 
 # Application definition
